@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudarshan177
+- 👋 Hi, I’m @sudarsh177
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python
 
